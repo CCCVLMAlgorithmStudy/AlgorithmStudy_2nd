@@ -4,7 +4,7 @@ def solution(progresses, speeds):
     size = len(progresses)
     
     for i in range(0,size):
-        requireDays.append(int(((99-progresses[i])/speeds[i])+1))
+        requireDays.append(((99-progresses[i])//speeds[i])+1)
 
     i = 0
     while  i < size:
