@@ -1,5 +1,6 @@
 cantCompleteRunner
-문제명 :**완주하지 못한 선수**
+문제명 : 완주하지 못한 선수
+링크 : https://programmers.co.kr/learn/courses/30/lessons/42576
 난이도 : 1/5
 해설 : 
 입력받은 두 배열/리스트를 비교해서 참가자 배열에 있는 요소 중 완주자 배열에 없는 요소를 반환하는 문제
