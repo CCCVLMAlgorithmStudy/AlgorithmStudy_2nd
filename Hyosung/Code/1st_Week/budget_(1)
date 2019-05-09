@@ -1,6 +1,6 @@
 def solution(d, budget):
     answer = 0
-    d.sort()
+    d.sort()    // sort : 정렬, 기본값은 오름차순 정렬, reverse옵션 True는 내림차순 정렬
     
     sum = 0
     for i in d:
