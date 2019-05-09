@@ -1,17 +1,8 @@
-def solution(d, budget):
-    answer = 0
-    d.sort()
-    
-    sum = 0
-    for i in d:
-        if sum + i <= budget:
-            sum += i
-            answer += 1
-        else:
-            break
+배열 d = 부서별 신청금액 들 
 
-    return answer
-    
-    
-// 예산문제
-// https://programmers.co.kr/learn/courses/30/lessons/12982
+budget (예산), 매개변수
+
+신청금액 들 의 합이 예산 보다 커지면 안됨. 
+배열 값 꺼내고 모두 더해서 <= 예산 값 
+
+answer = 위 상황에 따른 "최대 갯수" 
