@@ -1,5 +1,5 @@
 * 주차 : 1주차 
-* 문제명 : 2016년 
+* 문제명 : Flatland Space Station
 * 링크 : https://www.hackerrank.com/challenges/flatland-space-stations/
 * 사용언어 : Pyton3,C++ 
 * 자체평점(5점 만점) : 1/5 
