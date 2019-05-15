@@ -14,9 +14,7 @@ def solution(op):
             else :
                 arr.remove(Min)
     if not arr :
-        answer.append(0)
-        answer.append(0)
+        answer = [0,0]
     else :
-        answer.append(int(max(arr)))
-        answer.append(int(min(arr)))
+        answer = [max(arr),min(arr)]
     return answer
