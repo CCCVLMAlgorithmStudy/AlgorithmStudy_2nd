@@ -21,3 +21,11 @@
     * 체육복- https://programmers.co.kr/learn/courses/30/lessons/42862
     * 최댓값과 최솟값 - https://programmers.co.kr/learn/courses/30/lessons/12939
     * (+a)섬 연결하기 - https://programmers.co.kr/learn/courses/30/lessons/42861
+
+3. 3주차 문제  
+    * 탑 - https://programmers.co.kr/learn/courses/30/lessons/42588
+    * 두 정수 사이의 합 - https://programmers.co.kr/learn/courses/30/lessons/12912  
+    * 프린터 - https://programmers.co.kr/learn/courses/30/lessons/42587 
+    * 숫자의 표현 - https://programmers.co.kr/learn/courses/30/lessons/12924
+    * (+a)스킬 트리 - https://programmers.co.kr/learn/courses/30/lessons/49993
+    
