@@ -1,4 +1,4 @@
-* 주차 : 1주차 
+* 주차 : 1주차,3주차 
 * 문제명 : 탑
 * 링크 : https://programmers.co.kr/learn/courses/30/lessons/42588
 * 사용언어 : Pyton3,C++ 
