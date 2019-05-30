@@ -1,8 +1,14 @@
-cantCompleteRunner
-문제명 : 완주하지 못한 선수
-링크 : https://programmers.co.kr/learn/courses/30/lessons/42576
-난이도 : 1/5
-해설 : 
+# cantCompleteRunner
+* 주차 : 1주차
+* 문제명 : 직사각형 별찍기
+* 링크 : https://programmers.co.kr/learn/courses/30/lessons/42576
+* 사용언어 : Python
+* 자체평점(5점 만점) : 1/5
+ 
+  —
+
+* 풀이
+
 입력받은 두 배열/리스트를 비교해서 참가자 배열에 있는 요소 중 완주자 배열에 없는 요소를 반환하는 문제
 sort() 함수로 정렬 후에 작은 배열의 수만큼 두 배열을 비교해서 같지 않은 값이 있으면 해당 참가자 배열의 값을 반환
 만약 for in 문에서 찾지 못하면 참가자 배열의 마지막 값을 반환
