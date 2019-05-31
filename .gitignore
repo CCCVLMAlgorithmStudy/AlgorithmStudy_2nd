@@ -172,3 +172,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/vim,emacs,macos,windows,notepadpp,sublimetext,visualstudiocode
+
+test.cpp
+test.py
