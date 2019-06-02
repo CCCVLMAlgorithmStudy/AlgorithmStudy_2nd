@@ -36,3 +36,10 @@
     * 문자열을 정수로 바꾸기 - https://programmers.co.kr/learn/courses/30/lessons/12925
     * (+a) 점프와 순간이동 - https://programmers.co.kr/learn/courses/30/lessons/12980
     * (+b) 구명보트 - https://programmers.co.kr/learn/courses/30/lessons/42885
+
+5. 5~6주차 문제  
+    * 단속 카메라 - https://programmers.co.kr/learn/courses/30/lessons/42884
+    * 폰켓몬 - https://programmers.co.kr/learn/courses/30/lessons/1845
+    * 영어 끝말잇기 - https://programmers.co.kr/learn/courses/30/lessons/12981
+    * JadenCase 문자열 만들기 - https://programmers.co.kr/learn/courses/30/lessons/12951
+    * 등굣길 - https://programmers.co.kr/learn/courses/30/lessons/42898
