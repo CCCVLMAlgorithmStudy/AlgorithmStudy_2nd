@@ -1,4 +1,4 @@
-* 주차 : 4주차
+* 주차 : 5~6주차
 * 문제명 : 단속 카메라
 * 링크 :  https://programmers.co.kr/learn/courses/30/lessons/42884
 * 사용언어 : C++,python3
