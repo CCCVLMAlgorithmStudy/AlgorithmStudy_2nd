@@ -1,7 +1,7 @@
 # wayToSchool
 * 주차 : 5주차
 * 문제명 : 등굣길
-* 링크 : https://programmers.co.kr/learn/courses/30/lessons/42884
+* 링크 : https://programmers.co.kr/learn/courses/30/lessons/42898
 * 사용언어 : Python
 * 자체평점(5점 만점) : 4/5
  
