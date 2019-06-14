@@ -6,13 +6,12 @@ def solution(m, n, puddles):
         for j in range(0,m) :
             if ((i == 0 and j == 1) or (i == 1 and j == 0)) and arr[i][j] != -1 :
                 arr[i][j] = 1
-                continue
-            if arr[i][j] == -1 or (arr[i][j-1] == -1 and arr[i-1][j] == -1) :
+            elif arr[i][j] == -1 or (arr[i][j-1] == -1 and arr[i-1][j] == -1) :
                 arr[i][j] = 0
             elif arr[i][j-1] == -1 :
                 arr[i][j] = arr[i-1][j]
             elif arr[i-1][j] == -1 :
                 arr[i][j] = arr[i][j-1]
             else :
-                arr[i][j] = (arr[i-1][j] + arr[i][j-1]) % 1000000007
-    return arr[i][j]
+                arr[i][j] = (arr[i-1][j] + arr[i][j-1]) 
+    return arr[i][j] % 1000000007
