@@ -43,3 +43,9 @@
     * 영어 끝말잇기 - https://programmers.co.kr/learn/courses/30/lessons/12981
     * JadenCase 문자열 만들기 - https://programmers.co.kr/learn/courses/30/lessons/12951
     * 등굣길 - https://programmers.co.kr/learn/courses/30/lessons/42898
+
+6. 7~9주차 문제  
+    * 줄 서는 방법 - https://programmers.co.kr/learn/courses/30/lessons/12936  
+    * 저울 - https://programmers.co.kr/learn/courses/30/lessons/42886  
+    * 예상 대진표 - https://programmers.co.kr/learn/courses/30/lessons/12985  
+    * 위장 - https://programmers.co.kr/learn/courses/30/lessons/42578  
